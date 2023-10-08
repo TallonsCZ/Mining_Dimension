@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "miningdimension:block/triple_compress_glowstone"}
+  }
+}

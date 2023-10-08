@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "miningdimension:block/true_cobblestone"}
+  }
+}

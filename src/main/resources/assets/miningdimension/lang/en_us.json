@@ -1,0 +1,14 @@
+{
+  "item.miningdimension.portalstaff": "Portal Staff",
+
+  "block.miningdimension.portalframe": "Portal Frame",
+  "block.miningdimension.compress_copper_block": "Compress Copper Block",
+  "block.miningdimension.double_compress_copper_block": "Double Compress Copper Block",
+  "block.miningdimension.triple_compress_copper_block": "Triple Compress Copper Block",
+
+  "block.miningdimension.compress_glowstone": "Compress Glowstone",
+  "block.miningdimension.double_compress_glowstone": "Double Compress Glowstone",
+  "block.miningdimension.triple_compress_glowstone": "Triple Compress Glowstone",
+
+  "itemGroup.mining_dimension": "Mining Dimension"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "miningdimension:true_cobblestone"
+    },
+    "X": {
+      "item": "miningdimension:double_compress_copper_block"
+    },
+    "P": {
+      "item": "miningdimension:compress_glowstone"
+    }
+  },
+  "pattern": [
+    "P#P",
+    "#X#",
+    "P#P"
+  ],
+  "result": {
+    "item": "miningdimension:portalframe"
+  }
+}

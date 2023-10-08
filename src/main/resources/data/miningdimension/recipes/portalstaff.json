@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:diamond_block"
+    },
+    "X": {
+      "item": "miningdimension:double_compress_copper_block"
+    },
+    "P": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "pattern": [
+    "P  ",
+    " X ",
+    "  #"
+  ],
+  "result": {
+    "item": "miningdimension:portalstaff"
+  }
+}

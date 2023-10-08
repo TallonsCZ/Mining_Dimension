@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 300,
+  "experience": 0.5,
+  "group": "true_stone",
+  "ingredient": {
+    "item": "miningdimension:true_cobblestone"
+  },
+  "result": "miningdimension:true_stone"
+}

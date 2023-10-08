@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "miningdimension:triple_compress_glowstone"
+    }
+  },
+  "pattern": [
+    "   ",
+    " # ",
+    "   "
+  ],
+  "result": {
+    "count": 9,
+    "item": "miningdimension:double_compress_glowstone"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "miningdimension:block/double_compress_copper_block"
+  }
+}

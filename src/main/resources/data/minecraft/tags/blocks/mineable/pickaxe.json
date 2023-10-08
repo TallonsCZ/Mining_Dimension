@@ -1,0 +1,14 @@
+{
+  "values": [
+    "miningdimension:true_stone",
+    "miningdimension:true_cobblestone",
+    "miningdimension:true_stone_brick",
+    "miningdimension:compress_copper_block",
+    "miningdimension:double_compress_copper_block",
+    "miningdimension:triple_compress_copper_block",
+    "miningdimension:compress_glowstone",
+    "miningdimension:double_compress_glowstone",
+    "miningdimension:triple_compress_glowstone",
+    "miningdimension:portalframe"
+  ]
+}
